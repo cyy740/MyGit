@@ -4,3 +4,4 @@ my third line;
 my fourth line;
 my fifth line create for dev;
 my sixth line create for master and dev;
+my seventh line create for master;
